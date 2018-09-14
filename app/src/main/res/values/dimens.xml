@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text Size -->
+    <dimen name="text_size_S">15sp</dimen>
+    <dimen name="text_size_L">20sp</dimen>
+    <dimen name="text_size_XL">50sp</dimen>
+
+    <!-- fragment_current.xml -->
+    <dimen name="fragment_current_margin">10dp</dimen>
+    <dimen name="fragment_current_image_width">80dp</dimen>
+    <dimen name="fragment_current_image_height">100dp</dimen>
+
+    <!-- fragment_forecast.xml -->
+    <dimen name="fragment_forecast_degree_marginTop">25dp</dimen>
+    <dimen name="fragment_forecast_ll_marginLeft">40dp</dimen>
+
+    <!-- item_forecast.xml -->
+    <dimen name="item_forecast_image_width">70dp</dimen>
+    <dimen name="item_forecast_image_height">70dp</dimen>
+    <dimen name="item_forecast_lowHigh_marginLeft">5dp</dimen>
+
+</resources>

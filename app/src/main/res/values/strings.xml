@@ -1,0 +1,19 @@
+<resources>
+    <!-- MainActivity -->
+    <string name="app_name">WeatherFox</string>
+    <string name="current_mode">Current</string>
+    <string name="forecast_mode">Forecast</string>
+    <string name="search_button">Search</string>
+    <string name="location_hint">Location</string>
+
+    <!-- CurrentFragment -->
+    <string name="feels">Feels like:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind">Wind:</string>
+    <string name="image_desc">Weather</string>
+
+    <!-- Error -->
+    <string name="empty_location">Location empty</string>
+    <string name="error_retrofit">Something went wrong...Please try later!</string>
+
+</resources>

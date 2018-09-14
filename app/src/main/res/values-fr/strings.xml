@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity -->
+    <string name="app_name">WeatherFox</string>
+    <string name="current_mode">Aujourd\'hui</string>
+    <string name="forecast_mode">Prévisions</string>
+    <string name="search_button">Recherche</string>
+    <string name="location_hint">Lieu</string>
+
+    <!-- CurrentFragment -->
+
+    <string name="feels">Ambiante:</string>
+    <string name="humidity">Humidité:</string>
+    <string name="wind">Vents:</string>
+    <string name="image_desc">Météo</string>
+
+    <!-- Error -->
+    <string name="error_retrofit">Un problème s\'est produit... veuillez réessayer ultérieurement</string>
+    <string name="empty_location">Lieu non renseigné</string>
+
+
+</resources>
