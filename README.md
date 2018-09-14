@@ -14,6 +14,24 @@ Deux modes sont disponibles :
 
 Internationalisation globale de l'application, internationalisation des réponses de l'API soon ...
 
+## Installation
+
+1. Clone du projet.
+2. Télécharger et installer le JDK approprié pour votre système. Actuellement en JDK 7.
+3. Installer [Android Studio](https://developer.android.com/sdk/index.html).
+4. Télécharger et installer l'API 28.
+4. Ouvrir le projet.
+5. Lancer l'application via `Run > Run 'app'. 
+6. Lancement via emulator ou appareil connecté.
+
+## Utilisation
+
+L'application nécessite une permission de "Location" pour géolocaliser l'utilisateur.
+
+L'initialisation va prendre en compte si possible, la ville de l'utilisateur pour faire une première recherche.
+
+Libre à l'utilisateur de regarder la météo / prévisions pour d'autre ville.
+
 ## Librairies
 
 - Retrofit 2 https://github.com/square/retrofit
